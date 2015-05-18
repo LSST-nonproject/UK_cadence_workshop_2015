@@ -2,8 +2,7 @@
 
 Kavli Institute for Cosmology, Institute of Astronomy, University of Cambridge, May 18-20, 2015
 
-This is the repository for the notebooks generated at the UK 
-Cadence Workshop (May 2015) and the associated talks.
+This is the repository for the notebooks generated at the workshop, and the slides from the talks and tutorials.
 
 ## Talks
 
@@ -13,3 +12,5 @@ Cadence Workshop (May 2015) and the associated talks.
 ## Notebooks
 
 To come!
+
+## Useful Links
