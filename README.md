@@ -13,4 +13,7 @@ This is the repository for the notebooks generated at the workshop, and the slid
 
 All the example notebooks are available at [https://github.com/lsst-sims/sims_maf_notebooks](https://github.com/lsst-sims/sims_maf_notebooks)
 
+git clone https://github.com/lsst-sims/sims_maf_notebooks
+git clone https://github.com/LSST-nonproject/sims_maf_contrib.git
+
 ## Useful Links
